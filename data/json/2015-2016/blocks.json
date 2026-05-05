@@ -1,0 +1,320 @@
+{
+  "A": {
+    "_section_label": "A. General Information",
+    "A1": {
+      "label": ". Address Information",
+      "raw_text": "A1. Address Information\nName of College or University: Stanford University\nCity/State/Zip: Stanford, CA 94305\nMain Phone Number: 650-723-2300\nWWW Home Page Address: http://www.stanford.edu\nAdmissions Phone Number: 650-723-2091\nAdmissions Office Mailing Address, City/State/Zip: Undergraduate Admission, Montag Hall,\nStanford University, Stanford, CA, 94305-6106\nAdmissions Fax Number: 650-723-6050\nAdmissions E-mail Address: admission@stanford.edu"
+    },
+    "A2": {
+      "label": ". Source of institutional control: Private (nonprofit)",
+      "raw_text": "A2. Source of institutional control: Private (nonprofit)"
+    },
+    "A3": {
+      "label": ". Classify your undergraduate institution: Coeducational college",
+      "raw_text": "A3. Classify your undergraduate institution: Coeducational college"
+    },
+    "A4": {
+      "label": ". Academic year calendar: Quarter",
+      "raw_text": "A4. Academic year calendar: Quarter"
+    },
+    "A5": {
+      "label": ". Degrees offered by your institution: Bachelor's, Master's, Doctoral degree",
+      "raw_text": "A5. Degrees offered by your institution: Bachelor's, Master's, Doctoral degree\nresearch/scholarship, Doctoral degree professional practice"
+    }
+  },
+  "B": {
+    "_section_label": "B. ENROLLMENT AND PERSISTENCE",
+    "B1": {
+      "label": ". Institutional Enrollment, Men and Women, as of October 15, 2015.",
+      "raw_text": "B1. Institutional Enrollment, Men and Women, as of October 15, 2015.\n\n\n                                                   Full TimeFull Time Part TimePart Time\n                                                   Men      Women Men          Women\nUndergraduates\nDegree-seeking, first-time freshmen                867      852        0       0\nOther first-year, degree-seeking                   18       32         0       0\nAll other degree-seeking                           2,778    2,447      0       0\nTotal degree seeking                               3,663    3,331      0       0\nAll other undergraduates enrolled in credit courses 3       2          0       0\nTotal undergraduates                               3,666    3,333      0       0\nGraduate\nDegree-seeking, first-time                         1,359    890        33      23\nAll other degree seeking                           3,984    2,508      270     129\nAll other graduates enrolled in credit courses     27       11         408     129\nTotal graduate                                     5,370    3,409      711     281\n\nTotal all undergraduates: 6,999\n\nTotal all graduate students: 9,771\n\nGRAND TOTAL ALL STUDENTS: 16,770\n\fB2. Enrollment by Racial/Ethnic Category. Provide numbers of undergraduate students for\neach of the following categories as of the institution's official fall reporting date or as of\nOctober 15, 2015. Include international students only in the category \"Nonresident alients.\"\nReport as your institution does for IPEDS.\n\n\n                           Degree-        Degree-seeking\n                                                                      Total Undergraduates\n                           seeking First- Undergraduates,\n                                                                      (both degree- and non-\n                           time, First- (including first-time, first-\n                                                                      degree-seeking)\n                           year           year)\nNonresident aliens          177            612                         612\nHispanic / Latino           230            1,072                       1,072\nBlack or African\nAmerican, non-              107            425                         426\nHispanic/Latino\nWhite, non-Hispanic         625            2,614                       2,614\nAmerican Indian or\nAlaska Native, non-         7              71                          71\nHispanic/Latino\nAsian, non-Hispanic         385            1,432                       1,432\nNative Hawaiian or other\nPacific Islander, non-   6                 22                          22\nHispanic/Latino\nTwo or more races, non-\n                            176            725                         725\nHispanic/Latino\nRace/ethnicity unknown      6              21                          25\nTotal                       1,719          6,994                       7,000\n\nPersistence"
+    },
+    "B3": {
+      "label": ". Number of degrees awarded by your institution from July 1, 2014, to June 30, 2015.",
+      "raw_text": "B3. Number of degrees awarded by your institution from July 1, 2014, to June 30, 2015.\nBachelor's degrees: 1,671\nMaster's degrees: 2,325\nDoctoral degrees-research/scholarship: 688\nDoctoral degrees-professional practice: 273\n\fGraduation Rates\nThe items in this section correspond to data elements collected by the IPEDS Web-based Data\nCollection System's Graduation Rate Survey (GRS).\n\nFor Bachelor's or Equivalent Programs\nFall 2009 Cohort\nReport for the cohort of full-time first-time bachelor's (or equivalent) degree-seeking\nundergraduate students who entered in Fall 2009. Include in the cohort those who entered\nyour institution during the summer term preceding Fall 2009."
+    },
+    "B4": {
+      "label": ". Initial 2009 cohort of first-time, full-time bachelor's (or equivalent) degree-seeking",
+      "raw_text": "B4. Initial 2009 cohort of first-time, full-time bachelor's (or equivalent) degree-seeking\nundergraduate students: 1,692\nB4. Initial 2008 cohort of first-time, full-time bachelor's (or equivalent) degree-seeking\nundergraduate students; total all students: 1,703"
+    },
+    "B5": {
+      "label": ". Of the initial 2009 cohort, how many did not persist and did not graduate for the following",
+      "raw_text": "B5. Of the initial 2009 cohort, how many did not persist and did not graduate for the following\nreasons: death, permanently disability, service in the armed forces, foreign aid service of the\nfederal government, or official church missions; total allowable exclusions: 0\nB5. Of the initial 2008 cohort, how many did not persist and did not graduate for the following\nreasons: death, permanently disability, service in the armed forces, foreign aid service of the\nfederal government, or official church missions; total allowable exclusions: 0\n\fB6. Final 2008 cohort, after adjusting for allowable exclusions: 1,703"
+    },
+    "B6": {
+      "label": ". Final 2009 cohort, after adjusting for allowable exclusions: 1,692",
+      "raw_text": "B6. Final 2009 cohort, after adjusting for allowable exclusions: 1,692"
+    },
+    "B7": {
+      "label": ". Of the initial 2009 cohort, how many completed the program in four years or less: 1,272",
+      "raw_text": "B7. Of the initial 2009 cohort, how many completed the program in four years or less: 1,272\nB7. Of the initial 2008 cohort, how many completed the program in four years or less: 1,298"
+    },
+    "B8": {
+      "label": ". Of the initial 2009 cohort, how many completed the program in more than four years but in",
+      "raw_text": "B8. Of the initial 2009 cohort, how many completed the program in more than four years but in\nfive years or less: 243\nB8. Of the initial 2008 cohort, how many completed the program in more than four years but in\nfive years or less: 249"
+    },
+    "B9": {
+      "label": ". Of the initial 2009 cohort, how many completed the program in more than five years but in",
+      "raw_text": "B9. Of the initial 2009 cohort, how many completed the program in more than five years but in\nsix years or less: 67\nB9. Of the initial 2008 cohort, how many completed the program in more than five years but in\nsix years or less: 64"
+    },
+    "B10": {
+      "label": ". Total graduating within six years (sum of questions B7, B8, and B9): 1,582",
+      "raw_text": "B10. Total graduating within six years (sum of questions B7, B8, and B9): 1,582\nB10. Total graduating within six years (sum of questions B7, B8, and B9): 1,611"
+    },
+    "B11": {
+      "label": ". Six-year graduation rate for 2009 cohort (question B10 divided by question B6): 93%",
+      "raw_text": "B11. Six-year graduation rate for 2009 cohort (question B10 divided by question B6): 93%\n\nFall 2008 Cohort\nReport for the cohort of full-time first-time bachelor's (or equivalent) degree-seeking\nundergraduate students who entered in Fall 2008. Include in the cohort those who entered\nyour institution during the summer term preceding Fall 2008.\nB11. Six-year graduation rate for 2008 cohort (question B10 divided by question B6): 95%\n\nRetention Rates"
+    },
+    "B22": {
+      "label": ". For the cohort of all full-time bachelor's (or equivalent) degree-seeking undergraduate",
+      "raw_text": "B22. For the cohort of all full-time bachelor's (or equivalent) degree-seeking undergraduate\nstudents who entered your institution as freshmen in fall 2014 (or the preceding summer term),\nwhat percentage was enrolled at your institution as of the date your institution calculates its\nofficial enrollment in fall 2015? 98%"
+    }
+  },
+  "C": {
+    "_section_label": "C. FIRST-TIME,? FIRST-YEAR (?:\\(?FRESHMAN\\)? )?ADMISSION",
+    "C1": {
+      "label": ". First-time, first-year (freshman) students: Provide the number of degree-seeking, first-time,",
+      "raw_text": "C1. First-time, first-year (freshman) students: Provide the number of degree-seeking, first-time,\nfirst-year students who applied, were admitted, and enrolled (full- or part-time) in Fall 2015.\nInclude early decision, early action, and students who began studies during summer in this\ncohort. Applicants should include only those students who fulfilled the requirements for\nconsideration for admission (i.e., who completed actionable applications) and who have been\nnotified of one of the following actions: admission, non-admission, placement on waiting list, or\napplication withdrawn (by applicant or institution). Admitted applicants should include wait-\nlisted students who were subsequently offered admission.\n\nTotal first-time, first-year (freshman) men who applied: 22,831\nTotal first-time, first-year (freshman) women who applied: 19,666\nTotal first-time, first-year (freshman) men who were admitted: 1,073\nTotal first-time, first-year (freshman) women who were admitted: 1,067\n\nTotal full-time, first-time, first-year (freshman) men who enrolled: 867\nTotal part-time, first-time, first-year (freshman) men who enrolled: 0\nTotal full-time, first-time, first-year (freshman) women who enrolled: 853\nTotal part-time, first-time, first-year (freshman) women who enrolled: 0"
+    },
+    "C2": {
+      "label": ". Freshman wait-listed students (students who met admission requirements but whose final",
+      "raw_text": "C2. Freshman wait-listed students (students who met admission requirements but whose final\nadmission was contingent on space availability)\nDo you have a policy of placing students on a waiting list? Yes\nNumber of qualified applicants offered a place on waiting list: 1,256\n\fNumber of wait-listed students who accepted a place on the list: 927\nNumber of wait-listed students admitted: 0\nIs your waiting list ranked? No\n\nAdmission Requirements"
+    },
+    "C3": {
+      "label": ". High school completion requirement",
+      "raw_text": "C3. High school completion requirement\nIdentify your high school completion requirement for degree-seeking entering students:\nHigh school diploma is required and GED is accepted"
+    },
+    "C4": {
+      "label": ". Does your institution require or recommend a general college-preparatory program for",
+      "raw_text": "C4. Does your institution require or recommend a general college-preparatory program for\ndegree-seeking students?\nRecommend"
+    },
+    "C5": {
+      "label": ". Distribution of high school units required and/or recommended. Specify the distribution of",
+      "raw_text": "C5. Distribution of high school units required and/or recommended. Specify the distribution of\nacademic high school course units required and/or recommended of all or most degree-seeking\nstudents using Carnegie units (one unit equals one year of study or its equivalent). If you use a\ndifferent system for calculating units, please convert.\n\n\n\n                                    Units Required Units Recommended\nTotal academic units                                20+\nEnglish                                             4\nMathematics                                         4\nScience                                             3+\nOf these, units that must be labs                   3\nForeign language                                    3+\nSocial studies                                      3+\nHistory                                             included in above\nAcademic electives\nComputer Science\nVisual/Performing Arts\nOther\n\fC6. Do you have an open admission policy, under which virtually all secondary school graduates\nor students with GED equivalency diplomas are admitted without regard to academic record,\ntest scores, or other qualifications? No"
+    },
+    "C7": {
+      "label": ". Relative importance of each of the following academic and nonacademic factors in your",
+      "raw_text": "C7. Relative importance of each of the following academic and nonacademic factors in your\nfirst-time, first-year, degree-seeking (freshman) admission decisions.\n\n\n\n                                   Very Important Important Considered Not considered\nAcademic\nRigor of secondary school record x\nClass rank                         x\nAcademic GPA                       x\nStandardized test scores           x\nApplication essay                  x\nRecommendation (s)                 x\nNonacademic\nInterview                                                      x\nExtracurricular activities         x\nTalent/ability                     x\nCharacter/personal qualities       x\nFirst generation                                               x\nAlumni/ae relation                                             x\nGeographical residence                                         x\nState residency                                                             x\nReligious affiliation/commitment                                            x\nRacial/ethnic status                                           x\nVolunteer work                                                 x\nWork experience                                                x\nLevel of applicant interest                                                 x\n\fC8. Entrance exams\n\nA. Does your institution make use of SAT, ACT or SAT Subject Tests in admission decisions for\nfirst-time, first-year, degree-seeking applicants? Yes\nIf yes, place check marks in the appropriate boxes below to reflect your institution's policies for\nuse in admission for Fall 2017.\n\nADMISSION\n\n\n\n                            Require Consider\n                                              Not\n          Require Recommend for     if\n                                              used\n                            some    submitted\nSAT or\n          x\nACT\nACT\nOnly\nSAT\nonly\nSAT\nand\nSAT\nSubject\nTests\nor ACT\nSAT\nSubject             x\nTests\n\nB. If your institution will make use of the ACT in admission decisions for first-time, first-year,\ndegree-seeking applicants for Fall 2017, please indicate how the writing component will be\nused:\nACT with Writing component required\n\nC. If your institution will make use of the SAT in admission decisions for first-time, first-year,\ndegree-seeking applicants for the fall of 2017, please indicate the status of the essay, regardless\nof whether the essay score will be used in the admissions process:\nSAT with ESSAY component required\n\fD. In addition, does your institution use applicants' test scores for academic advising? No\n\nE. Latest date by which SAT or ACT scores must be received for fall-term admission: Jan. 15\nLatest date by which SAT Subject Test scores must be received for fall-term admission: Jan. 15\nF. If necessary. clarify your test policies: The ACT Plus Writing or the SAT (Critical Reading, Math\nand Writing) is required. SAT Subject Tests are recommended but not required. AP examination\nscores are recommended but not required. If English is not your native language, we\nrecommend, but do not require, the Test of English as a Foreign Language (TOEFL).\nG. Indicate which tests your institution uses for placement:\nAP: A maximum of 45 quarter units of Advanced Placement may be applied toward the\nundergraduate degree. Visit the website here for more.\nFreshman Profile"
+    },
+    "C9": {
+      "label": ". Percent and number of first-time, first-year (freshman) students enrolled in fall 2015 who",
+      "raw_text": "C9. Percent and number of first-time, first-year (freshman) students enrolled in fall 2015 who\nsubmitted national standardized (SAT/ACT) test scores. Include information for all enrolled,\ndegree-seeking, first-time, first-year (freshman) students who submitted test scores. Do not\ninclude partial test scores (e.g., mathematics scores but not critical reading for a category of\nstudents) or combine other standardized test results (such as TOEFL) in this item. The 25th\npercentile is the score that 25 percent scored at or below; the 75th percentile score is the one\nthat 25 percent scored at or above.\n\nPercent submitting SAT scores: 80%. Number submitting SAT scores: 1,377\nPercent submitting ACT scores: 51%. Number submitting ACT scores: 870\n46\n\n                       25th percentile 75th percentile\nSAT Critical Reading 690                 780\nSAT Math               700               800\nSAT Writing            690               780\nSAT Essay              n/a               n/a\nACT Composite          31                35\nACT Math               30                35\nACT English            32                35\nACT Writing/English 30                   33\n\fPercent of first-time, first-year (freshman) students with scores in each range:\n\n          SAT Critical Reading SAT Math SAT Writing\n700-800 71.75                      77.85       73.71\n600-699 24.11                      19.83       22\n500-599 3.70                       2.11        3.85\n400-499 0.44                       0.22        0.44\n300-399 0                          0           0\n200-299 0                          0           0\n\n\n\n          ACT Composite ACT English ACT Math\n30-36     87.47             90.80          82.30\n24-29     11.61             7.70           17.24\n18-23     0.92              1.15           0.46\n12-17     0                 0.34           0\n6-11      0                 0              0\nBelow 6 0                   0              0"
+    },
+    "C10": {
+      "label": ". Percent of all degree-seeking, first-time, first-year (freshman) students who had high",
+      "raw_text": "C10. Percent of all degree-seeking, first-time, first-year (freshman) students who had high\nschool class rank within each of the following ranges (report information for those students\nfrom whom you collected high school rank information).\nPercent in top tenth of high school graduating class: 96\nPercent in top quarter of high school graduating class: 99\nPercent in top half of high school graduating class: 100\nPercent in bottom half of high school graduating class: 0\nPercent in bottom quarter of high school graduating class: 0\n Percent of total first-time, first-year (freshman) students who submitted high school class rank:\n35%"
+    },
+    "C11": {
+      "label": ". Percentage of all enrolled, degree-seeking, first-time, first-year (freshman) students who",
+      "raw_text": "C11. Percentage of all enrolled, degree-seeking, first-time, first-year (freshman) students who\nhad high school grade-point averages within each of the following ranges (using 4.0 scale).\nReport information only for those students from whom you collected high school GPA.\nPercent who had GPA of 3.75 and higher: 94.51\nPercent who had GPA of between 3.50 and 3.74: 4.01\n\fPercent who had GPA between 3.25 and 3.49: 0.91\nPercent who had GPA between 3.00 and 3.24: 0.58\nPercent who had GPA between 2.50 and 2.99: 0"
+    },
+    "C12": {
+      "label": ". Average high school GPA of all degree-seeking, first-time, first-year (freshman) students",
+      "raw_text": "C12. Average high school GPA of all degree-seeking, first-time, first-year (freshman) students\nwho submitted GPA: 3.95\nPercentage of total, first-year (freshman) students who submitted high school GPA: 84.77%\nAdmission Policies"
+    },
+    "C13": {
+      "label": ". Application fee",
+      "raw_text": "C13. Application fee\nDoes your institution have an application fee? Yes\nAmount of application fee: $90\nCan it be waived for applicants with financial need? Yes\nIf you have an application fee and an on-line application option, please indicate policy for\nstudents who apply on-line: Same fee\nCan on-line application fee be waived for applicants with financial need? Yes"
+    },
+    "C14": {
+      "label": ". Application closing date",
+      "raw_text": "C14. Application closing date\nDoes your institution have an application closing date? Yes\nApplication closing date (fall): 01/03"
+    },
+    "C15": {
+      "label": ". Are first-time, first-year students accepted for terms other than the fall? No",
+      "raw_text": "C15. Are first-time, first-year students accepted for terms other than the fall? No"
+    },
+    "C16": {
+      "label": ". Notification to applicants of admission decision sent by: April 1",
+      "raw_text": "C16. Notification to applicants of admission decision sent by: April 1"
+    },
+    "C17": {
+      "label": ". Reply policy for admitted applicants: Must reply by: May 1",
+      "raw_text": "C17. Reply policy for admitted applicants: Must reply by: May 1\nDeadline for housing deposit:_____; Amount of housing deposit: ______; Refundable if student\ndoes not enroll?"
+    },
+    "C18": {
+      "label": ". Deferred admission: Does your institution allow students to postpone enrollment after",
+      "raw_text": "C18. Deferred admission: Does your institution allow students to postpone enrollment after\nadmission? Yes\nIf yes, maximum period of postponement: 2 years"
+    },
+    "C19": {
+      "label": ". Early admission of high school students: Does your institution allow high school students",
+      "raw_text": "C19. Early admission of high school students: Does your institution allow high school students\nto enroll as full-time, first-time, first-year (freshman) students one year or more before high\nschool graduation? No"
+    },
+    "C21": {
+      "label": ". Early decision: Does your institution offer an early decision plan (an admission plan that",
+      "raw_text": "C21. Early decision: Does your institution offer an early decision plan (an admission plan that\npermits students to apply and be notified of an admission decision well in advance of the\nregular notification date and that asks students to commit to attending if accepted) for first-\ntime, first-year (freshman) applicants for fall enrollment? No"
+    },
+    "C22": {
+      "label": ". Early action: Do you have a nonbinding early action plan whereby students are notified of",
+      "raw_text": "C22. Early action: Do you have a nonbinding early action plan whereby students are notified of\nan admission decision well in advance of the regular notification date but do not have to\ncommit to attending your college? Yes\n\nIf \"yes,\" please complete the following:\nEarly action closing date: Nov. 1\nEarly action notification date: Dec. 15\nIs your early action a \"restrictive\" plan under which you limit students from applying to other\nearly plans? Yes"
+    }
+  },
+  "D": {
+    "_section_label": "D. TRANSFER ADMISSION",
+    "D1": {
+      "label": ". Does your institution enroll transfer students? Yes",
+      "raw_text": "D1. Does your institution enroll transfer students? Yes\nIf yes, may transfer students earn advanced standing credit by transferring credits earned from\ncourse work completed at other colleges/universities? Yes"
+    },
+    "D2": {
+      "label": ". Provide the number of students who applied, were admitted, and enrolled as degree-",
+      "raw_text": "D2. Provide the number of students who applied, were admitted, and enrolled as degree-\nseeking transfer students in fall 2015.\n\n\n\n          Applicants Admitted Applicants Enrolled Applicants\nMen       1,240         13                   10\nWomen 783               7                    5\nTotal     2,023         20                   15\n\nApplication for Admission"
+    },
+    "D3": {
+      "label": ". Indicate terms for which transfers may enroll: Fall",
+      "raw_text": "D3. Indicate terms for which transfers may enroll: Fall"
+    },
+    "D4": {
+      "label": ". Must a transfer applicant have a minimum number of credits completed or else must apply",
+      "raw_text": "D4. Must a transfer applicant have a minimum number of credits completed or else must apply\nas an entering freshman? No"
+    },
+    "D5": {
+      "label": ". Indicate all items required of transfer students to apply for admission:",
+      "raw_text": "D5. Indicate all items required of transfer students to apply for admission:\n\n\n\n                        Required   Recommended        Recommended       Required     Not\n                        of all     of all             of some           of some      required\nHigh school\n                        x\ntranscript\nCollege transcript(s)   x\nEssay or personal\n                        x\nstatement\nInterview                                                                            x\nStandardized test\n                        x\nscores\nStatement of good\nstanding from prior     x\ninstitution(s)\n\fD6. If a minimum high school grade point average is required of transfer applicants, specify\n(on a 4.0 scale): _____________"
+    },
+    "D7": {
+      "label": ". If a minimum college grade point average is required of transfer applicants, specify",
+      "raw_text": "D7. If a minimum college grade point average is required of transfer applicants, specify\n(on a 4.0 scale): ____________"
+    },
+    "D8": {
+      "label": ". List any other application requirements specific to transfer applicants:",
+      "raw_text": "D8. List any other application requirements specific to transfer applicants:"
+    },
+    "D9": {
+      "label": ". List application priority, closing, notification, and candidate reply dates for transfer",
+      "raw_text": "D9. List application priority, closing, notification, and candidate reply dates for transfer\nstudents.\n\n\n\n       Priority Closing Notification Reply\n       Date     Date    Date         Date\n               March                  June\nFall                 May 15\n               15                     1"
+    },
+    "D10": {
+      "label": ". Does an open admission policy, if reported, apply to transfer students? No",
+      "raw_text": "D10. Does an open admission policy, if reported, apply to transfer students? No"
+    },
+    "D11": {
+      "label": ". Describe additional requirements for transfer admission, if applicable:",
+      "raw_text": "D11. Describe additional requirements for transfer admission, if applicable:\nTransfer Credit Policies"
+    },
+    "D12": {
+      "label": ". Report the lowest grade earned for any course that may be transferred for credit: C-",
+      "raw_text": "D12. Report the lowest grade earned for any course that may be transferred for credit: C-"
+    },
+    "D13": {
+      "label": ". Maximum number of credits or courses that may be transferred from a two-year",
+      "raw_text": "D13. Maximum number of credits or courses that may be transferred from a two-year\ninstitution:\nNumber: 90 Unit type: quarter"
+    },
+    "D14": {
+      "label": ". Maximum number of credits or courses that may be transferred from a four-year",
+      "raw_text": "D14. Maximum number of credits or courses that may be transferred from a four-year\ninstitution:\nNumber: 90 Unit type: quarter"
+    },
+    "D15": {
+      "label": ". Minimum number of credits that transfers must complete at your institution to earn an",
+      "raw_text": "D15. Minimum number of credits that transfers must complete at your institution to earn an\nassociate degree: N/A"
+    },
+    "D16": {
+      "label": ". Minimum number of credits that transfers must complete at your institution to earn a",
+      "raw_text": "D16. Minimum number of credits that transfers must complete at your institution to earn a\nbachelor's degree: 90"
+    },
+    "D17": {
+      "label": ". Describe other transfer credit policies:",
+      "raw_text": "D17. Describe other transfer credit policies:\nCredit from another institution will be transferred for courses that are substantially equivalent\nto those offered at Stanford University on the undergraduate level, subject to the approval of\nthe credit evaluator. A maximum of 20 quarter units may represent courses that do not parallel\nspecific courses at Stanford, again, subject to the approval of the credit evaluator as to quality\nand suitability.\nCredit earned in extension and correspondence courses is transferable only if the university\noffering the courses allows that credit toward its own bachelor's degree. Such credit is limited\nto a maximum of 45 quarter units for extension courses, a maximum of 15 quarter units for\ncorrespondence study, and a maximum of 45 quarter units for the combination of extension\nand correspondence courses."
+    }
+  },
+  "E": {
+    "_section_label": "E. ACADEMIC OFFERINGS AND POLICIES",
+    "E1": {
+      "label": ". Special study options: Identify those programs available at your institution:",
+      "raw_text": "E1. Special study options: Identify those programs available at your institution:\n\n\n\nAccelerated program\nHonors program                           x\nCooperative work-study program\nIndependent study                        x\nCross-registration\nInternships                              x\nDistance learning                        x\nLiberal arts/career combination\nDouble major                             x\nStudent-designed major                   x\nDual enrollment\nStudy abroad                             x\nEnglish as a second language\nTeacher certification program\nExchange student program (domestic) x\nWeekend college\nExternal degree program\n\nOther: Marine research center, Stanford in Washington, Stanford in NYC\n\fE3. Areas in which all or most students are required to complete some course work prior to\ngraduation:\n\n\n\nArts/fine arts\nHumanities\nComputer Literacy\nMathematics\nEnglish (including composition) x\nPhilosophy\nForeign Language                  x\nSciences\nHistory\nSocial Science\n\nOther: Undergraduates complete at least 180 units, including requirements for the major,\nwriting and rhetoric requirements, one year of a foreign language and courses in the following\nareas:\n\n   \u25aa   Thinking Matters: One-quarter course in the freshman year\n   \u25aa   Ways of Thinking, Ways of Doing: Eleven courses in eight subject areas, including\n       aesthetic and interpretive inquiry, social inquiry, scientific analysis,formal reasoning,\n       quantitative reasoning, engaging diversity, moral and ethical reasoning and creative\n       expression."
+    }
+  },
+  "F": {
+    "_section_label": "F. STUDENT LIFE",
+    "F1": {
+      "label": ". Percentages of first-time, first-year (freshman) students and all degree-seeking",
+      "raw_text": "F1. Percentages of first-time, first-year (freshman) students and all degree-seeking\nundergraduates enrolled in fall 2015 who fit the following categories:\n\n\n\n                                                                             All\n                                                                 Freshmen\n                                                                             Undergraduates\nPercent who are from out of state                                63          61\nPercent of men who join fraternities                             0           20\nPercent of women who join sororities                             0           20\nPercent who live in college owned, operated or affiliated\n                                                                 100         93\nhousing\nPercent who live off campus or commute                           0           7\nPercent of students age 25 and older                             0           1\nAverage age of full-time students                                18          20\nAverage age of all students                                      18          20\n\n* includes off campus, Stanford in Washington and overseas campuses."
+    },
+    "F2": {
+      "label": ". Activities offered:",
+      "raw_text": "F2. Activities offered:\n\n\n\nChoral groups                          x\nConcert Band                           x\nDance                                  x\nDance/theater                          x\nJazz band                              x\nLiterary magazine                      x\nMarching band                          x\nMusic ensembles                        x\nMusical theater                        x\nOpera                                  x\n\fPep band                                x\nRadio station                           x\nStudent government                      x\nStudent newspaper                       x\nStudent-run film society                x\nSymphony orchestra                      x\nTelevision station                      x\nYearbook                                x\nCampus Ministries                       x\nModel United National                   x\nInternational Student Organizations x"
+    },
+    "F3": {
+      "label": ". ROTC (programs offered at cooperating institutions)",
+      "raw_text": "F3. ROTC (programs offered at cooperating institutions)\nArmy ROTC is offered at Santa Clara University\nNaval ROTC is offered at UC Berkeley\nAir Force ROTC is offered at San Jose University"
+    },
+    "F4": {
+      "label": ". Housing",
+      "raw_text": "F4. Housing\n\n\n\nCoed dorms                                                      x\nMen's dorms\nWomen's dorm                                                    x\nApartments for married students                                 x\nApartments for single students                                  x\nSpecial housing for disabled students                           x\nSpecial housing for international students\nFraternity/sorority housing                                     x\nCooperative housing                                             x\nOther: academic, cross-cultural, language theme and ethnic theme x"
+    }
+  },
+  "G": {
+    "_section_label": "G. (?:ANNUAL EXPENSES|ANNUAL EXPENSE)",
+    "G0": {
+      "label": ". Link to Stanford University's net price calculator",
+      "raw_text": "G0. Link to Stanford University's net price calculator\n\fBelow are the 2015-2016 academic year costs for Stanford University:\n X Check here if your institution's 2016-2017 academic year costs are not available at this time\nand provide an approximate date (i.e., month/day) when your institution's final academic year\ncosts will be available: February 2016."
+    },
+    "G1": {
+      "label": ". Undergraduate full-time tuition, required fees, room and board",
+      "raw_text": "G1. Undergraduate full-time tuition, required fees, room and board\nList the typical tuition, required fees, and room and board for a full-time undergraduate student\nfor the FULL 2015-2016 academic year. A full academic year refers to the period of time\ngenerally extending from September to June; usually equated to two semesters, two trimesters,\nthree quarters, or the period covered by a four-one-four plan. Room and board is defined as\ndouble occupancy and 19 meals per week or the maximum meal plan. Required fees include\nonly charges that all full-time students must pay that are not included in tuition (e.g.,\nregistration, health, or activity fees.) Do not include optional fees (e.g., parking, laboratory\nuse).\n\n\n\n                         FIRST-YEAR             UNDERGRADUATES\nTuition                  $45,729                $45,729\nRequired Fees            $591                   $591\nRoom and Board           $14,107                $14,107\nRoom Only                $8,346                 $8,346\nBoard Only               $5,761                 $5,761\n\n\n\nComprehensive tuition and room and board fee (if your college cannot provide separate tuition\nand room and board fees): _______________________\nOther:\n______________________________________________________________________________\n_______"
+    },
+    "G2": {
+      "label": ". Number of credits per term a student can take for the stated full-time tuition: 12 minimum,",
+      "raw_text": "G2. Number of credits per term a student can take for the stated full-time tuition: 12 minimum,\n23 maximum"
+    },
+    "G3": {
+      "label": ". Do tuition and fees vary by year of study (e.g., sophomore, junior, senior)? No",
+      "raw_text": "G3. Do tuition and fees vary by year of study (e.g., sophomore, junior, senior)? No"
+    },
+    "G4": {
+      "label": ". Do tuition and feeds vary by undergraduate instructional program? No",
+      "raw_text": "G4. Do tuition and feeds vary by undergraduate instructional program? No\n\fG5. Provide the estimated expenses for a typical full-time undergraduate student for 2013-\n14:\n\n\n\n                                       Commuters living at       Commuters not living at\n                           Residents\n                                       home                      home\nBooks/supplies             $1,425      $1,425                    $1,425\nRoom only\nBoard only                             $4,770\nRoom and board\n                                                                 $14,107\ntotal\nTransportation             $700        $1,134                    $700\nOther expenses             $2,625      $3,159                    $2,625"
+    }
+  },
+  "H": {
+    "_section_label": "H. FINANCIAL AID",
+    "H1": {
+      "label": ". Enter total dollar amounts awarded to full-time and less than full-time degree-seeking",
+      "raw_text": "H1. Enter total dollar amounts awarded to full-time and less than full-time degree-seeking\nundergraduates in the following categories. Include aid awarded to international students (i.e.,\nthose not qualifying for federal aid). Aid that is non-need-based but that was used to meet\nneed should be reported in the need-based aid column.\nIndicate the academic year for which data are reported for items H1, H2, H2A, and H6: 2014-\n2015 Final\n\nWhich needs-analysis methodology does your institution use in awarding institutional aid?\n___ Federal methodology (FM)\n___ Institutional methodology (IM)\n_X_ Both FM and IM\n\n\n                                                                                   Non need\n                                                                   Need based $\n                                                                                   based $\nScholarships/Grants\nFederal                                                             $6,557,064     $720,081\nState (i.e., all states)                                            $3,256,763     $18,307\nInstitutional (Endowed scholarships, annual gifts and tuition-\n                                                                    $129,855,337 $1,129,137\nfunded grants, awarded by the college)\n\fScholarships/grants from external sources (e.g., Kiwanis,\n                                                                    $4,496,592    $5,133,954\nNational Merit) not awarded by the college\nTotal Scholarships/Grants                                           $144,165,756 $7,001,479\n\n\nSelf Help\nStudent loans from all sources (excluding parent loans)             $2,093,779    $5,737,527\nFederal work study                                                  $1,356,595\nState and other work study employment                               $3,394,724    $539,600\nTotal Self Help                                                     $6,845,098    $6,277,127\n\n\nParent Loans                                                                      $5,264,860\nTuition Waivers                                                     $249,271      $2,689,473\nAthletic Awards                                                     $2,519,842    $17,036,565"
+    },
+    "H2": {
+      "label": ". Number of Enrolled Students Receiving Aid: List the number of degree-seeking full-time",
+      "raw_text": "H2. Number of Enrolled Students Receiving Aid: List the number of degree-seeking full-time\nand less-than-full-time undergraduates who applied for and received financial aid from any\nsource. Aid that is non-need-based but that was used to meet need should be counted as need-\nbased aid. Numbers should reflect the cohort receiving the dollars reported in H1. Note: In the\nchart below, students may be counted in more than one row, and full-time freshmen should\nalso be counted as full-time undergraduates.\n\n\n\n                                                            Full-time,\n                                            First-time,                     Less Than Full-\n                                                            Undergrad\n                                            Full-time                       Time\n                                                            (Including\n                                            Freshmen                        Undergraduate\n                                                            Freshmen)\na) Number of degree-seeking\n                                            1,678           6,886\nundergraduate students\nb) Number of students in line a who\n                                            997             3,821\napplied for need-based financial aid\nc) Number of students in line b who were\n                                            811             3,457\ndetermined to have financial need\nd) Number of students in line c who\n                                            790             3,399\nreceived any financial aid\n\fe) Number of students in line d who were\n                                           774        3,343\nawarded scholarship or grant aid\nf) Number of students in line d who were\n                                           468        2,585\nawarded any need-based self-help aid\ng) Number of students in line d who were\nawarded any non-need-based scholarship     20         93\nor grant aid\nh) Number of students in line d whose\nneed was fully met (excluding PLUS loans,\n                                          738         3,055\nunsubsidized loans, and private\nalternative loans)\ni) On average, the percentage of need that\nwas met of students who were awarded\nany need-based aid. Exclude aid that was\n                                           100%       100%\nawarded in excess of need as well as any\nresources that were awarded to replace\nEFC\nj) The average financial aid package of\nthose in line d. Exclude any resources that $46,438   $45,923\nwere awarded to replace EFC\nk) Average need-based scholarship of\n                                           $43,291    $43,167\ngrant award of those in line e\nl) Average need-based self-help award of\n                                           $2,234     $2,594\nthose in line f\nm) Average need-based loan of those in\n                                           $2,580     $3,114\nline f who received a need-based loan\n\fH2A. Number of Enrolled Students Awarded Non-need-based Scholarships and Grants: List\nthe number of degree-seeking full-time and less-than-full-time undergraduates who had no\nfinancial need and who were awarded institutional non-need-based scholarship or grant aid.\nNumbers should reflect the cohort awarded the dollars reported in H1. Note: In the chart\nbelow, students may be counted in more than one row, and full-time freshmen should also be\ncounted as full-time undergraduates.\n\n\n\n                                                      First-time,   Full-time\n                                                      Full-time     Undergraduates\n                                                      Freshmen      (including Freshmen)\nn) Number of students in line a who had no financial\nneed and who were awarded non-need-based\n                                                     0              31\nscholarship or grant aid (excluding those who were\nawarded athletic awards and tuition benefits)\no) Average dollar amount of institutional non-need-\nbased scholarship and grant aid awarded to students 0               $13,501\nin line n\np) Number of students in line a who were awarded\nan institutional non-need-based athletic grant or     116           455\nscholarship\nq) Average dollar amount of institutional non-need-\nbased athletic grants and grants awarded to           $30,902       $37,443\nstudents in line p\n\fH4. Provide the number of students in the 2015 undergraduate class who started at your\ninstitution as first-time students and received a bachelor's degree between July 1, 2014 and\nJune 30, 2015. Exclude students who transferred to your institution: 1,623\n\n                                                                                         Average per-\n                                                                           Percent of\n                                                                                         undergraduate\n                                                             Number in     the class\n                                                                                         borrower\n                                                             the           (defined\n                                                                                         cumulative\n                                                             class(defined above)\n                                                                                         principal\n                                                             in H4 above) who\n                                                                                         borrowed, of\n                                                             who           borrowed\n                                                                                         those in the first\n                                                             borrowed      (nearest\n                                                                                         column (nearest\n                                                                           1%)\n                                                                                         $1)\na) Any loan program: Federal Perkins, Federal Stafford\nSubsidized and Unsubsidized, Institutional, state,\nprivate loans that your institution is aware of, etc.        356            22%          $21,238\nInclude both Federal Direct Student Loan and Federal\nEducation Loans.\nb) Federal loan programs: Federal Perkins, Federal\nStafford Subsidized and Unsubsidized. Include both\n                                                             344            21%          $16,358\nFederal Direct Student Loans and Federal Family\nEducation Loans.\nc) Institutional loan programs.                              12             1%           $5,298\nd) State loan programs.                                      0              0%           $0\ne.) Private alternative loans made by a bank or lender.      53             3%           $35,277\n\nAid to Undergraduate Degree-seeking Nonresident Aliens"
+    },
+    "H6": {
+      "label": ". Indicate your institution's policy regarding institutional scholarship and grant for",
+      "raw_text": "H6. Indicate your institution's policy regarding institutional scholarship and grant for\nundergraduate degree-seeking nonresident aliens:\nInstitutional need-based scholarship or grant aid is available\nInstitutional non-need based scholarship of grant aid is available\nIf institutional financial aid is available for undergraduate degree-seeking nonresident aliens,\nprovide the number of undergraduate degree-seeking nonresident aliens who received need-\nbased or non-need-based aid: 149\n\nAverage dollar amount awarded to undergraduate degree-seeking nonresident aliens: $55,362\n\nTotal dollar amount of institutional financial aid awarded to all undergraduate degree-seeking\n\fnonresident aliens: $8,208,946\n\nProcess for First-Year/Freshman Students"
+    },
+    "H7": {
+      "label": ". Check off all financial aid forms nonresident alien first-year financial aid applicants must",
+      "raw_text": "H7. Check off all financial aid forms nonresident alien first-year financial aid applicants must\nsubmit:\n__ Institution's own financial aid form\n_X_ CSS/Financial Aid PROFILE\n__ International Student's Financial Aid Application\nX International Student's Certificate of Finances\n\n__ Other: _____________________________________________________________"
+    },
+    "H8": {
+      "label": ". Check off all financial aid forms domestic first-year financial aid applicants must submit:",
+      "raw_text": "H8. Check off all financial aid forms domestic first-year financial aid applicants must submit:\n_X_ FAFSA\n__ Institution's own financial aid form\nX_ CSS/Financial Aid PROFILE\n__ State aid form\nX_ Noncustodial PROFILE\n__ Business/Farm Supplement\n__ Other: _______________________________________________________________"
+    },
+    "H9": {
+      "label": ". Indicate filing dates for first-year (freshman) students:",
+      "raw_text": "H9. Indicate filing dates for first-year (freshman) students:\nPriority date for filing required financial aid forms: February 15\nDeadline for filing required financial aid forms: ____\nNo deadline for filing required forms (applications processed on a rolling basis): ___X____"
+    },
+    "H10": {
+      "label": ". Indicate notification dates for first-year (freshman) students (answer a or b):",
+      "raw_text": "H10. Indicate notification dates for first-year (freshman) students (answer a or b):\na.) Students notified on or about (date): _____\nb.) Students notified on a rolling basis: yes. If yes, starting date: April 1"
+    },
+    "H11": {
+      "label": ". Indicate reply dates:",
+      "raw_text": "H11. Indicate reply dates:\nStudents must reply by (date): May 1 or within _______ weeks of notification.\nTypes of Aid Available\nPlease check off all types of aid available to undergraduates at your institution:"
+    },
+    "H12": {
+      "label": ". Loans",
+      "raw_text": "H12. Loans\nFEDERAL DIRECT STUDENT LOAN PROGRAM (DIRECT LOAN)\n_X_ Direct Subsidized Stafford Loans\n_X_ Direct Unsubsidized Stafford Loans\n_X_ Direct PLUS Loans\nX_ Federal Perkins Loans\n__ Federal Nursing Loans\n__ State Loans\n__ College/university loans from institutional funds\n__ Other (specify):\n\fH13. Scholarships and Grants\nNEED-BASED:\nX_ Federal Pell\nX_ SEOG\nX_ State scholarships/grants\nX_ Private scholarships\nX_ College/university gift aid from institutional funds\n__ United Negro College Fund\n__ Federal Nursing Scholarship\n__ Other (specify): ____________________________"
+    },
+    "H14": {
+      "label": ". Athletic aid is the only non-need based institutional aid awarded at Stanford.",
+      "raw_text": "H14. Athletic aid is the only non-need based institutional aid awarded at Stanford."
+    },
+    "H15": {
+      "label": ". If you institution has recently implemented any major financial aid policy, program or",
+      "raw_text": "H15. If you institution has recently implemented any major financial aid policy, program or\ninitiative to make your institution more affordable to incoming students, such as replacing loans\nwith grants, or waiving costs for families below a certain income, please provide details below:\n\"Zero Parent Contribution for Parents with Income Below $65,000\nFor parents with total annual income below $65,000 and typical assets for this income range,\nStanford will not expect a parent contribution toward educational costs. Students will still be\nexpected to contribute toward their own expenses from their summer income, part-time work\nduring the school year, and their own savings.\nTuition Charges Covered for Parents with Income Below $125,000\nFor parents with total annual income below $125,000 and typical assets for this income range,\nthe expected parent contribution will be low enough to ensure that all tuition charges are\ncovered with need-based scholarship, federal and state grants, and/or outside scholarship\nfunds.\nFamilies with incomes at higher levels (typically up to $200,000) may also qualify for assistance,\nespecially if more than one family member is enrolled in college. We encourage any family\nconcerned about the ability to pay for a Stanford education to complete the application\nprocess. If we are not able to offer need-based scholarship funds we will recommend available\nloan programs.\nFor details please refer to http://financialaid.stanford.edu."
+    }
+  },
+  "I": {
+    "_section_label": "I. INSTRUCTIONAL FACULTY AND CLASS SIZE"
+  },
+  "J": {
+    "_section_label": "J. DEGREES? CONFERRED"
+  }
+}
