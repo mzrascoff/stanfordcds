@@ -133,3 +133,35 @@ The parser code in `scripts/` is released under the MIT License (see `LICENSE`).
 4. **2018-19 was an unusual layout** — every line had a leading "C1"/"H1"/etc. field-code prefix. The parser handles this but if you spot a value that looks off in that year, double-check against the PDF.
 
 See `docs/EXTRACTION_NOTES.md` for more.
+
+---
+
+## Reproducing this for your university
+
+This repo includes a [Claude skill](./skill/SKILL.md) that generalizes the
+parser so it works for any U.S. university's CDS PDFs. The CDS template is
+standardized across institutions, so the same scripts that ingested 18 years
+of Stanford CDSes will work for Princeton, Harvard, MIT, your state flagship,
+or any liberal-arts college that publishes one.
+
+To use it:
+
+```bash
+# 1. Copy the skill into your project
+cp -r skill/ ../mycollegecds && cd ../mycollegecds
+
+# 2. List your university's CDS PDFs in scripts/manifest.py
+#    (URLs, Google Drive IDs, or local paths all work)
+
+# 3. Run the pipeline
+bash scripts/run_all.sh
+
+# 4. Optionally publish as your own repo
+git init -b main && git add -A
+git commit -m "Initial release: <university> CDS"
+gh repo create <university>cds --public --source=. --push
+```
+
+See `skill/SKILL.md` for the full workflow Claude follows when invoked, and
+`skill/references/example-manifests/` for filled-in manifests you can use as
+templates.
